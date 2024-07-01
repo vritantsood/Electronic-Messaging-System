@@ -8,8 +8,8 @@ import time
 BUTTON_PIN = 5
 
 # Replace with your Telegram Bot Token and target user ID
-BOT_TOKEN = "6703526385:AAHW3tYtunhdJSLukCdx8oaIZm7-Re3ssXU"   # Replace with your actual token
-TARGET_USER_ID = 1562061108 # Replace with your Telegram user ID
+BOT_TOKEN = "6703526385:AAHW3tYtunhdJSLukCdx8oaIZm7-Re3"   # Replace with your actual token
+TARGET_USER_ID = 15620611 # Replace with your Telegram user ID
 
 def capture_and_send_image():
     # Capture image with PiCamera
